@@ -114,6 +114,6 @@ Special thanks to the creators of the Udemy course [Self-Driving and ROS 2: Lear
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/pepperumo/
+[linkedin-url]: https://www.linkedin.com/in/giuseppe-rumore-b2599961
 [udemy-shield]: https://img.shields.io/badge/-Udemy-black.svg?style=flat-square&logo=udemy&colorB=555
 [udemy-url]: https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-odometry-control/?referralCode=50BCC4E84DB2DB09BFB3
