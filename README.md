@@ -15,7 +15,9 @@
 <!-- ABOUT THE PROJECT -->  
 ## About the Project
 
-This repository contains the material for the **Differential Self-Driving Robot (BumperBot)** project. If you are passionate about robotics and want to develop a self-driving robot with ROS 2, this project is for you! It includes:
+This repository is based on the **Self-Driving and ROS 2: Learn by Doing!** course available on [Udemy](https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-odometry-control/). Special thanks to the course creator for their excellent content and guidance, which inspired this project.
+
+The **Differential Self-Driving Robot (BumperBot)** project is ideal for those passionate about robotics and interested in developing a self-driving robot using ROS 2. It includes:
 
 - **Odometry**: Real-time position and orientation tracking.
 - **Control**: Precise motion control for differential drive.
