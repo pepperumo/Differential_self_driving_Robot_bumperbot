@@ -1,0 +1,9 @@
+keyboard:
+  ros__parameters:
+    interface_type: geometry_msgs/msg/TwistStamped
+    topic_name: bumperbot_controller/cmd_vel
+    speed: 0.5
+    turn: 1.0
+    deadzone: 0.1         # Optionally ignore very small keypress signals
+    autorepeat_rate: 20.0 # Frequency of publishing while holding a key
+    sticky_keys: false    # If true, last command stays active until new key pressed
